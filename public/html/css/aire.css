@@ -1,0 +1,73 @@
+<<<<<<< HEAD
+body {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/001/382/094/non_2x/old-map-and-compass-concepts-photo.jpg');
+    background-size: cover;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    color: #fff;
+    text-align: center;
+  }
+
+  #tittle-container {
+    background-color: rgba(10, 10, 10, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+
+  #weather-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  #air-quality-container {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  h2 {
+    color: #333;
+    font-weight:bold;
+    font-size: 24px;
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  
+  p {
+    font-weight: bold;
+    color: #555;
+    margin-bottom: 5px;
+    text-align: center;
+  }
+  
+  @media (max-width: 768px) {
+    h1 {
+      font-size: 28px;
+    }
+  
+    #air-quality-container {
+      padding: 15px;
+      text-align: center;
+    }
+  
+    h2 {
+      font-size: 20px;
+      text-align: center;
+    }
+  }
+=======
+>>>>>>> 97d9bbb1bc27caf9fffe6a42a8721850d0410788
